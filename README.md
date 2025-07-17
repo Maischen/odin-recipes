@@ -1,0 +1,1 @@
+Dieses Projekt soll eine Rezept Seite erstellen, wo ich dei basics von HTML besser kennenlernen soll und auch mehr festigen soll. Am Ende erwarte ich, dass ich eine einfache HTML Seite habe. mit der ich später weiterarbeiten kann.
